@@ -1,0 +1,33 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   Dog.hpp                                            :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: fde-carv <fde-carv@student.42porto.com>    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2024/02/14 12:02:12 by fde-carv          #+#    #+#             */
+/*   Updated: 2024/03/11 16:14:24 by fde-carv         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+#ifndef DOG_HPP
+# define DOG_HPP
+
+# include "Animal.hpp"
+
+class Dog : public Animal
+{
+	public:
+		// constructors and destructor
+		Dog();
+		Dog(const Dog &copy);
+		virtual ~Dog();
+
+		// assigned operator
+		Dog &operator=(const Dog &copy);
+ 
+		// member functions
+		virtual void makeSound() const;
+};
+
+#endif
