@@ -1,4 +1,4 @@
-# 42 CCP Projects README (Module00 - Module09)
+# 42 CCP Projects (Module00 - Module09)
 
 This is my implemantation of the C++ projects completed in modules 00 to 09. Below, you will find information about each project, including its name, description, grade, and repository URL.
 
@@ -10,6 +10,10 @@ Exercise 00: Megaphone
 Description:
 
 The Megaphone program is designed to echo input arguments in uppercase. When executed, it takes input strings as arguments and converts them to uppercase letters, then prints the result. If no arguments are provided, it outputs a specific message. The program ensures that all input strings are converted to uppercase, making the output loud and clear.
+
+To run, open the terminal and type 'make', and the program will compile.
+For assurance, run with Valgrind by executing 'valgrind ./<name>' to check for errors and memory leaks."
+
 Turn-in Directory:
 
 ex00/
