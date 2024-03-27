@@ -12,7 +12,7 @@ Description:
 The Megaphone program is designed to echo input arguments in uppercase. When executed, it takes input strings as arguments and converts them to uppercase letters, then prints the result. If no arguments are provided, it outputs a specific message. The program ensures that all input strings are converted to uppercase, making the output loud and clear.
 
 To run, open the terminal and type 'make', and the program will compile.
-For assurance, run with Valgrind by executing 'valgrind ./<name>' to check for errors and memory leaks."
+For assurance, run with Valgrind by executing 'valgrind ./<programe_name>' to check for errors and memory leaks."
 
 Turn-in Directory:
 
