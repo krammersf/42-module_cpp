@@ -4,6 +4,7 @@ Welcome to the README for the projects completed in modules 00 to 04 of the 42 C
 
 ## Module00
 <details>
+    <summary>Module00</summary>
 
 Exercise 00: Megaphone
 Description:
