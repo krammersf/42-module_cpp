@@ -6,7 +6,7 @@ Welcome to the README for the projects completed in modules 00 to 04 of the 42 C
 
 ### [Project Name]
 - **Description:** [Brief description of the project]
-- **Grade:** [Project Grade]
+- **Grade:** [100]
 - **Repository:** [Project URL]
 
 ### [Project Name]
