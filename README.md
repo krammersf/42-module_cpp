@@ -37,6 +37,12 @@ Files to Turn in:
     *.cpp
     *.{h, hpp}
 
+  Files to Turn in:
+
+    Makefile
+    *.cpp
+    *.{h, hpp}
+
 - **Forbidden Functions:** None
 
 ### [Exercise 02] : The Job Of Your Dreams
