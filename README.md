@@ -1,6 +1,6 @@
-# 42 CCP Projects README (Module00 - Module04)
+# 42 CCP Projects README (Module00 - Module09)
 
-Welcome to the README for the projects completed in modules 00 to 04 of the 42 Coding Career Program (CCP). Below, you'll find information about each project, including its name, description, grade, and repository URL.
+This is my implemantation of the C++ projects completed in modules 00 to 09. Below, you will find information about each project, including its name, description, grade, and repository URL.
 
 <details>
     <summary>Module 00</summary>
@@ -18,9 +18,8 @@ Files to Turn in:
     Makefile
     megaphone.cpp
 
-Forbidden Functions:
+Forbidden Functions: None
 
-None
 Exercise 01: My Awesome PhoneBook
 Description:
 
@@ -34,9 +33,8 @@ Files to Turn in:
     *.cpp
     *.{h, hpp}
 
-Forbidden Functions:
+Forbidden Functions: None
 
-None
 Exercise 02: The Job Of Your Dreams
 Description:
 
@@ -51,11 +49,13 @@ Files to Turn in:
     Account.hpp
     tests.cpp
 
-Forbidden Functions:
+Forbidden Functions: None
 
-None
+Subjetc:
+[en.subject.pdf](https://github.com/krammersf/42-module_cpp/files/14772650/en.subject.pdf)
 
 - **Grade:** 100
+
 </details>
 
 <details>
