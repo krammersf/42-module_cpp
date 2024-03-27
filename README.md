@@ -3,8 +3,7 @@
 Welcome to the README for the projects completed in modules 00 to 04 of the 42 Coding Career Program (CCP). Below, you'll find information about each project, including its name, description, grade, and repository URL.
 
 <details>
-    
-    <summary>C++ Module 00</summary>
+    <summary>Module 00</summary>
 
 
 Exercise 00: Megaphone
