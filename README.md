@@ -1,4 +1,4 @@
-# 42 CCP Projects (Module00 - Module09)
+# 42 CPP Projects (Module00 - Module09)
 
 This is my implemantation of the C++ projects completed in modules 00 to 09. Below, you will find information about each project, including its name, description, grade, and repository URL.
 
