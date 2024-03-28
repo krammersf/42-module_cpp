@@ -23,9 +23,9 @@ valfrind ./<programe_name>
 
 - **Turn-in Directory:**
 ex00/
-Files to Turn in:
+- **Files to Turn in:**
 
-    Makefile
+    Makefile;
     megaphone.cpp
 
 - **Forbidden Functions:** None
