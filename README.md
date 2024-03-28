@@ -17,6 +17,7 @@ The Megaphone program is designed to echo input arguments in uppercase. When exe
 ./<programe_name>
 ```
   For assurance, run with Valgrind to check for errors and memory leaks.
+  
 ```shell
 valfrind ./<programe_name>
 ```
@@ -24,9 +25,8 @@ valfrind ./<programe_name>
 - **Turn-in Directory:**
 ex00/
 - **Files to Turn in:**
-
-    Makefile;
-    megaphone.cpp
+Makefile |
+megaphone.cpp
 
 - **Forbidden Functions:** None
  
