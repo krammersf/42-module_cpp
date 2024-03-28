@@ -80,7 +80,7 @@ ex02/
 - **Forbidden Functions:** None
 
 
-### Grade:*** 100/100
+## Grade: 100/100
 
 </details>
 
