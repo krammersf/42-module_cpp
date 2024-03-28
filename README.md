@@ -16,10 +16,10 @@ The Megaphone program is designed to echo input arguments in uppercase. When exe
 ```shell
 ./<programe_name>
 ```
-  For assurance, run with Valgrind to check for errors and memory leaks.
+    For assurance, run with Valgrind to check for errors and memory leaks.
   
 ```shell
-valfrind ./<programe_name>
+valgrind ./<programe_name>
 ```
 
 - **Turn-in Directory:**
