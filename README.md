@@ -55,19 +55,32 @@ ex01/
 
 - **Forbidden Functions:** None
 
-### [Exercise 02] : The Job Of Your Dreams
+#### [Exercise 02] : The Job Of Your Dreams
 
 - **Description:**
-
 The Job Of Your Dreams task involves recreating a lost file, Account.cpp, based on available files such as Account.hpp and a log file. The log file provides clues about the implementation of the Account class. The goal is to recreate the Account.cpp file by analyzing the provided files and ensuring that the recreated program passes the tests. This exercise tests the understanding and implementation skills of C++ classes and member functions.
 
+  To run, open the terminal and type 'make', and the program will compile.
+
+```shell
+./<programe_name>
+```
+  For assurance, run with Valgrind to check for errors and memory leaks.
+  
+```shell
+valgrind ./<programe_name>
+```
+
 - **Turn-in Directory:**
-
 ex02/
-Files to Turn in:
-To run, open the terminal and type 'make', and the program will compile. For assurance, run with Valgrind by executing './<name>' to check for errors and memory leaks."
+- **Files to Turn in:**
+    Makefile |
+    *.cpp |
 
-- **Grade:** 100/100
+- **Forbidden Functions:** None
+
+
+- ***Grade:*** 100/100
 
 </details>
 
