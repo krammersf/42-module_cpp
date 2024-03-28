@@ -16,7 +16,7 @@ The Megaphone program is designed to echo input arguments in uppercase. When exe
 ```shell
 ./<programe_name>
 ```
-    For assurance, run with Valgrind to check for errors and memory leaks.
+  For assurance, run with Valgrind to check for errors and memory leaks.
   
 ```shell
 valgrind ./<programe_name>
@@ -30,24 +30,27 @@ megaphone.cpp
 
 - **Forbidden Functions:** None
  
-### [Exercise 01] : My Awesome PhoneBook
+#### [Exercise 01] : My Awesome PhoneBook
 
 - **Description:**
-
 My Awesome PhoneBook is a basic phonebook software written in C++. It consists of two classes: PhoneBook and Contact. The PhoneBook class manages an array of contacts and can store up to 8 contacts. If the user tries to add a 9th contact, the oldest one is replaced. The Contact class represents a phonebook contact. The program allows users to add new contacts, search for existing contacts, and exit the phonebook.
+
+  To run, open the terminal and type 'make', and the program will compile.
+
+```shell
+./<programe_name>
+```
+  For assurance, run with Valgrind to check for errors and memory leaks.
+  
+```shell
+valgrind ./<programe_name>
+```
 
 - **Turn-in Directory:**
 ex01/
-Files to Turn in:
-
-    Makefile
-    *.cpp
-    *.{h, hpp}
-
-  Files to Turn in:
-
-    Makefile
-    *.cpp
+- **Files to Turn in:**
+    Makefile |
+    *.cpp |
     *.{h, hpp}
 
 - **Forbidden Functions:** None
