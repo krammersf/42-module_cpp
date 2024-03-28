@@ -6,14 +6,15 @@ This is my implemantation of the C++ projects completed in modules 00 to 09. Bel
     <summary>Module 00</summary>
 
 
-### [Exercise 00] : Megaphone
+## [Exercise 00] : Megaphone
 
-- **Description:**
+- *Description:*
 The Megaphone program is designed to echo input arguments in uppercase. When executed, it takes input strings as arguments and converts them to uppercase letters, then prints the result. If no arguments are provided, it outputs a specific message. The program ensures that all input strings are converted to uppercase, making the output loud and clear.
+
 To run, open the terminal and type 'make', and the program will compile.
 
 ```shell
-valgrind ./<programe_name>'
+valgrind ./<programe_name>
 ```
 
 
