@@ -201,4 +201,18 @@ int main(void)
 	}
 	std::cout << std::endl;
 	std::cin.get();
+
+
+	subTitle("Test to create an empty Array of 7 elements");
+	std::cout << std::endl;
+	Array<int> emptyArray7(7);
+	if(emptyArray7.size() > 0)
+	{
+		std::cout << std::endl;
+		for (unsigned int i = 0; i < emptyArray7.size(); ++i)
+			std::cout << " [" << CYAN << emptyArray7[i] << RESET << "] ";
+		std::cout << std::endl;
+	}
+	std::cout << std::endl;
+	std::cin.get();
 }
