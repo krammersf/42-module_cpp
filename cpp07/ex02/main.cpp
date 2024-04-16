@@ -203,9 +203,10 @@ int main(void)
 	std::cin.get();
 
 
-	subTitle("Test to create an empty Array of 7 elements");
+	subTitle("Test to create an empty array of 7 elements");
 	std::cout << std::endl;
 	Array<int> emptyArray7(7);
+	std::cout << "\n" << "This Array has " << emptyArray7.size() << " slots:";
 	if(emptyArray7.size() > 0)
 	{
 		std::cout << std::endl;
