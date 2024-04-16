@@ -50,6 +50,8 @@ template <typename T> class Array
 	public:
 		Array() : _array(NULL), _size(0)
 		{
+			for (unsigned int i = 0; i < n; i++)
+				_array[i] = T();
 			std::cout << GREEN1 << "Creating an empty default Array (Default Contructor)." << RESET << std::endl; 
 		}
 		
