@@ -48,7 +48,7 @@ template <typename T> class Array
 		unsigned int _size;
 		
 	public:
-		Array() : _array(NULL), _size(0)
+		Array() :  _array(new T[0]), _size(0) //_array(NULL), _size(0)
 		{
 			std::cout << GREEN1 << "Creating an empty default Array (Default Contructor)." << RESET << std::endl; 
 		}
