@@ -101,6 +101,7 @@ ex02/
 ### [Project Name]
 - **Description:** [Brief description of the project]
 - **Grade:** 100
+
 <details>
 
 ## Module02
