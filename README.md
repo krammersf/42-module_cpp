@@ -6,7 +6,7 @@ This is my implemantation of the C++ projects completed in modules 00 to 09. Bel
     <summary>Module 00</summary>
 
 <details>
-    <summary>Exercise 00</summary>
+    <summary><span style="font-size: 5.8em; margin-left: 20px;">Exercise 00</span></summary>
 
 ### [Exercise 00] : Megaphone
 
@@ -60,6 +60,10 @@ ex01/
     *.{h, hpp}
 
 - **Forbidden Functions:** None
+</details>
+
+<details>
+    <summary>   Exercise 02</summary>
 
 ### [Exercise 02] : The Job Of Your Dreams
 
@@ -85,9 +89,11 @@ ex02/
 
 - **Forbidden Functions:** None
 
+</details>
 
 ## Grade: 100/100
 
+</details>
 </details>
 
 <details>
