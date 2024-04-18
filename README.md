@@ -6,7 +6,7 @@ This is my implemantation of the C++ projects completed in modules 00 to 09. Bel
     <summary>Module 00</summary>
 
 <details>
-    <summary><span style="font-size: 5.8em; margin-left: 20px;">Exercise 00</span></summary>
+    <summary>───── Exercise 00 ─────</summary>
 
 ### [Exercise 00] : Megaphone
 
@@ -34,7 +34,7 @@ megaphone.cpp
 </details>
 
 <details>
-    <summary>Exercise 01</summary>
+    <summary>───── Exercise 01 ─────</summary>
     
 ### [Exercise 01] : My Awesome PhoneBook
 
@@ -63,7 +63,7 @@ ex01/
 </details>
 
 <details>
-    <summary>   Exercise 02</summary>
+    <summary>───── Exercise 02 ─────</summary>
 
 ### [Exercise 02] : The Job Of Your Dreams
 
