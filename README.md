@@ -80,7 +80,7 @@ ex02/
 - **Forbidden Functions:** None
 
 ## Grade: 100/100
-
+<details>
 
 <details>
     <summary>Module 01</summary>
@@ -99,7 +99,6 @@ ex02/
 ### [Project Name]
 - **Description:** [Brief description of the project]
 - **Grade:** 100
-
 <details>
 
 <details>
