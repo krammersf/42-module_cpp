@@ -5,6 +5,8 @@ This is my implemantation of the C++ projects completed in modules 00 to 09. Bel
 <details>
     <summary>Module 00</summary>
 
+<details>
+    <summary>Exercise 00</summary>
 
 ### [Exercise 00] : Megaphone
 
@@ -29,7 +31,11 @@ Makefile |
 megaphone.cpp
 
 - **Forbidden Functions:** None
- 
+</details>
+
+<details>
+    <summary>Exercise 01</summary>
+    
 ### [Exercise 01] : My Awesome PhoneBook
 
 - **Description:**
