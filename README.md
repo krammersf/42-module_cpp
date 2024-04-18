@@ -101,8 +101,12 @@ ex02/
 ### [Project Name]
 - **Description:** [Brief description of the project]
 - **Grade:** 100
+
 <details>
 
+<details>
+    <summary>Module 02</summary>
+    
 ## Module02
 
 ### [Project Name]
@@ -114,6 +118,11 @@ ex02/
 - **Description:** [Brief description of the project]
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
+
+<details>
+
+<details>
+    <summary>Module 03</summary>
 
 ## Module03
 
