@@ -81,7 +81,6 @@ ex02/
 
 ## Grade: 100/100
 
-</details>
 
 <details>
     <summary>Module 01</summary>
