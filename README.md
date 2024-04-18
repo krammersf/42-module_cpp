@@ -139,5 +139,7 @@ ex02/
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
 
+</details>
+
 <details>
     <summary>Module 02</summary>
