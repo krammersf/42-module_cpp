@@ -5,6 +5,7 @@ This is my implemantation of the C++ projects completed in modules 00 to 09. Bel
 <details>
     <summary>Module 00</summary>
 
+
 ### [Exercise 00] : Megaphone
 
 - **Description:**
@@ -78,12 +79,14 @@ ex02/
 
 - **Forbidden Functions:** None
 
+
 ## Grade: 100/100
 
-<details>
+</details>
 
 <details>
     <summary>Module 01</summary>
+
 
 ### [Project Name]
 - **Description:** [Brief description of the project]
@@ -98,12 +101,8 @@ ex02/
 ### [Project Name]
 - **Description:** [Brief description of the project]
 - **Grade:** 100
-
 <details>
 
-<details>
-    <summary>Module 02</summary>
-    
 ## Module02
 
 ### [Project Name]
@@ -115,10 +114,6 @@ ex02/
 - **Description:** [Brief description of the project]
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
-<details>
-
-<details>
-    <summary>Module 03</summary>
 
 ## Module03
 
@@ -131,7 +126,6 @@ ex02/
 - **Description:** [Brief description of the project]
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
-<details>
 
 ## Module04
 
@@ -144,10 +138,3 @@ ex02/
 - **Description:** [Brief description of the project]
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
-
-
-
-<details>
-    <summary>Module 04</summary>
-
-</details>
