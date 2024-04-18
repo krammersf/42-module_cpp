@@ -87,11 +87,6 @@ ex02/
 <details>
     <summary>Module 01</summary>
 
-
-### [Project Name]
-- **Description:** [Brief description of the project]
-- **Grade:** 100
-
 ## Module01
 
 ### [Project Name]
@@ -102,7 +97,14 @@ ex02/
 - **Description:** [Brief description of the project]
 - **Grade:** 100
 
+### [Project Name]
+- **Description:** [Brief description of the project]
+- **Grade:** 100
+
+</details>
+
 <details>
+    <summary>Module 02</summary>
 
 ## Module02
 
@@ -115,6 +117,11 @@ ex02/
 - **Description:** [Brief description of the project]
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
+
+</details>
+
+<details>
+    <summary>Module 03</summary>
 
 ## Module03
 
@@ -139,3 +146,5 @@ ex02/
 - **Description:** [Brief description of the project]
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
+
+</details>
