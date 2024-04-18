@@ -142,4 +142,6 @@ ex02/
 </details>
 
 <details>
-    <summary>Module 02</summary>
+    <summary>Module 01</summary>
+
+</details>
