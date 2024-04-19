@@ -16,12 +16,17 @@ The Megaphone program is designed to echo input arguments in uppercase. When exe
   To run, open the terminal and type 'make', and the program will compile.
 
 ```shell
-./<programe_name>
+./megaphone
 ```
   For assurance, run with Valgrind to check for errors and memory leaks.
   
 ```shell
-valgrind ./<programe_name>
+valgrind ./megaphone
+```
+  After entering the program's name, you can input as many strings as you want, and all the input will be converted to uppercase letters.
+  
+```shell
+valgrind ./megaphone "abc" "def"
 ```
 
 - **Turn-in Directory:**
@@ -44,12 +49,12 @@ My Awesome PhoneBook is a basic phonebook software written in C++. It consists o
   To run, open the terminal and type 'make', and the program will compile.
 
 ```shell
-./<programe_name>
+./phonebook
 ```
   For assurance, run with Valgrind to check for errors and memory leaks.
   
 ```shell
-valgrind ./<programe_name>
+valgrind ./phonebook
 ```
 
 - **Turn-in Directory:**
