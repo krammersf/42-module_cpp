@@ -330,14 +330,13 @@ ex06/
 - **Forbidden Functions:** None
 </details>
 
-
-
-
-
-
 ## Grade: 100/100
 </details>
 </details>
+
+
+
+
 
 <details>
     <summary>Module 02</summary>
@@ -353,6 +352,8 @@ ex06/
 - **Description:** [Brief description of the project]
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
+
+## Grade: 100/100
 
 </details>
 
@@ -370,6 +371,11 @@ ex06/
 - **Description:** [Brief description of the project]
 - **Grade:** [Project Grade]
 - **Repository:** [Project URL]
+
+</details>
+
+<details>
+    <summary>Module 04</summary>
 
 ## Module04
 
