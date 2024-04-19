@@ -75,16 +75,29 @@ ex01/
 - **Description:**
 The Job Of Your Dreams task involves recreating a lost file, Account.cpp, based on available files such as Account.hpp and a log file. The log file provides clues about the implementation of the Account class. The goal is to recreate the Account.cpp file by analyzing the provided files and ensuring that the recreated program passes the tests. This exercise tests the understanding and implementation skills of C++ classes and member functions.
 
-  To run, open the terminal and type 'make', and the program will compile.
+To run, open the terminal and type 'make', and the program will compile.
 
 ```shell
-./<programe_name>
+./account
 ```
-  For assurance, run with Valgrind to check for errors and memory leaks.
+For assurance, run with Valgrind to check for errors and memory leaks.
   
 ```shell
-valgrind ./<programe_name>
+valgrind ./account
 ```
+To run do:
+```shell
+make download
+```
+```shell
+./account > fred.log 
+```
+```shell
+diff <(cut -c 18- fred.log) <(cut -c 18- 19920104_091532.log) 
+```
+If the result is a new line, well done, your job is done!!!
+It means there is no difference between your log and the 19920104_091532.log.
+(The only difference should be the date).
 
 - **Turn-in Directory:**
 ex02/
