@@ -101,14 +101,14 @@ void RPN::execute(std::string input)
 	if (!checkInput(input))
 		return;
 
-	std::istringstream stringToStream(input); // Declare and initialize strintToStream (-)(+)
-	std::string line; // line (-)
-	while (std::getline(stringToStream, line)) // reads a line from the input (-)
-	{
-		std::istringstream lineStream(line); // streams the line (-)
-		std::string token; // (+)
-		//while (strintToStream >> token) // (+)
-		while (std::getline(lineStream, token, ' ')) // splits the line into tokens (-)
+	std::istringstream stringToStream(input); // Declare and initialize strintToStream (1)(2)
+	std::string line; // line (1)
+	while (std::getline(stringToStream, line)) // reads a line from the input (1)
+	{ // (1)_
+		std::istringstream lineStream(line); // streams the line (1)
+		std::string token; // (1)(2)
+		//while (stringToStream >> token) // (2)
+		while (std::getline(lineStream, token, ' ')) // splits the line into tokens (1)
 		{
 			bool isWhitespace = true;
 			for (unsigned int i = 0; i < token.size(); ++i)
@@ -142,7 +142,7 @@ void RPN::execute(std::string input)
 
 			if (stack.empty())
 				return ;
-		}
+		} // (1)
 	}
 
 	if (stack.size() > 1)
