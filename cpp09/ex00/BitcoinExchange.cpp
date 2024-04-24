@@ -216,7 +216,17 @@ void BitcoinExchange::checkInputFileHeader(void)
 
 	size_t start = line.find_first_not_of(" \t");
 	size_t end = line.find_last_not_of(" \t");
-	line = line.substr(start, end - start + 1); // Trim the line
+
+	if (start != std::string::npos && end != std::string::npos)
+		line = line.substr(start, end - start + 1); // Trim the line
+	else
+	{
+		std::cerr << RED << " ❌ Error: bad input fields." << RESET << std::endl;
+		std::cerr << YELLOW << "    => The input file should start with header 'date | value' in the first line.";
+		std::cerr << RESET << std::endl;
+		_inputFile.close(); 
+		return;
+	}
 
 	if (line != "date | value")
 	{
