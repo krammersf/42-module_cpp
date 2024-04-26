@@ -3,7 +3,7 @@
 This is my implemantation of the C++ projects completed in modules 00 to 09. Below, you will find information about each project, including its name, description, grade, and repository URL.
 
 <details>
-    <summary>Module 00</summary>
+    <summary> Module 00</summary>
 
 <details>
     <summary>───── Exercise 00 ─────</summary>
@@ -115,7 +115,7 @@ ex02/
 </details>
 
 <details>
-    <summary>Module 01</summary>
+    <summary> Module 01</summary>
  &#8203;
     
 Each exercise presents a different challenge in C++, covering everything from basic concepts to more advanced topics like memory allocation, pointers and references, file manipulation, and the use of control structures.
@@ -339,7 +339,7 @@ ex06/
 
 
 <details>
-    <summary>Module 02</summary>
+    <summary> Module 02</summary>
 
 ## Module02
 
@@ -358,7 +358,7 @@ ex06/
 </details>
 
 <details>
-    <summary>Module 03</summary>
+    <summary> Module 03</summary>
 
 ## Module03
 
@@ -375,7 +375,7 @@ ex06/
 </details>
 
 <details>
-    <summary>Module 04</summary>
+    <summary> Module 04</summary>
 
 ## Module04
 
