@@ -140,6 +140,19 @@ bool	BitcoinExchange::checkBTCValue(std::string valueString)
 		return (false);
 	}
 	
+	double value = atof(valueString.c_str());
+	if (value < 0)
+	{
+		std::cout << RED1 << "Error: not a positive number." << RESET << std::endl;
+		return (false);
+	}
+
+	if (value > 1000)
+	{
+		std::cout << RED1 << "Error: too large a number." << RESET << std::endl;
+		return (false);
+	}
+
 	size_t start = valueString.find_first_not_of(" \t");
 	size_t end = valueString.find_last_not_of(" \t");
 	valueString = valueString.substr(start, end - start + 1); // Trim the input string
@@ -164,19 +177,6 @@ bool	BitcoinExchange::checkBTCValue(std::string valueString)
 		}
 	}
 	
-	double value = atof(valueString.c_str());
-	if (value < 0)
-	{
-		std::cout << RED1 << "Error: not a positive number." << RESET << std::endl;
-		return (false);
-	}
-
-	if (value > 1000)
-	{
-		std::cout << RED1 << "Error: too large a number." << RESET << std::endl;
-		return (false);
-	}
-
 	return (true);
 }
 
